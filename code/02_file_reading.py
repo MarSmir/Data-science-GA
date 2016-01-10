@@ -5,40 +5,29 @@ https://github.com/fivethirtyeight/data/tree/master/airline-safety
 
 # read the whole file at once, return a single string (including newlines)
 # 'rU' mode (read universal) converts different line endings into '\n'
-f = open('airlines.csv', 'rU')
-data = f.read()
-f.close()
+
 
 # use a context manager to automatically close your file
-with open('airlines.csv', 'rU') as f:
-    data = f.read()
+
 
 # read the file into a list (each list element is one row)
-with open('airlines.csv', 'rU') as f:
-    data = []
-    for row in f:
-        data.append(row)
+
 
 # do the same thing using a list comprehension
-with open('airlines.csv', 'rU') as f:
-    data = [row for row in f]
+
 
 # side note: splitting strings
-'Hello DAT7 students'.split()
-'apple,banana,cherry'.split(',')
+
 
 # split each string (at the commas) into a list
-with open('airlines.csv', 'rU') as f:
-    data = [row.split(',') for row in f]
+
 
 # do the same thing using the csv module
-import csv
-with open('airlines.csv', 'rU') as f:
-    data = [row for row in csv.reader(f)]
+
 
 # separate the header and data
-header = data[0]
-data = data[1:]
+
+
 
 '''
 EXERCISES:
@@ -59,21 +48,13 @@ Expected output: {'Aer Lingus': 0.07, 'Aeroflot': 2.73, ...}
 '''
 
 # Part 1
-incidents = [round((int(row[2]) + int(row[5])) / float(30), 2) for row in data]
+
 
 # Parts 2 and 3
-airlines = []
-starred = []
-for row in data:
-    if row[0][-1] == '*':
-        starred.append(1)
-        airlines.append(row[0][:-1])
-    else:
-        starred.append(0)
-        airlines.append(row[0])
+
 
 # Part 4
-airline_incidents = dict(zip(airlines, incidents))
+
 
 
 '''
