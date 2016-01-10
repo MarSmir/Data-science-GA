@@ -149,7 +149,6 @@ Add this file to a GitHub repo that you'll use for all of your coursework, and s
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a thorough set of Markdown examples with concise explanations. GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a simpler and more attractive guide, but is less comprehensive.
 * [Introducing GitHub](http://amzn.to/1KCjWg6) is a nice intro to GitHub that reads quickly
 * [Version Control with Git](http://amzn.to/1gSkBm2)
-**Git and Markdown Resources:**
 * [Cracking the Code to GitHub's Growth](https://growthhackers.com/growth-studies/github) explains why GitHub is so popular among developers.
 
 **Command Line Resources:**
