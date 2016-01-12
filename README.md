@@ -5,7 +5,6 @@ Welcome to Data Science at General Assembly! This is where we will be hosting al
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (1/12/16 - 3/31/16).
 
 **Instructors:** Aleks Ontman & Alex Sherman 
-</br>**TA:** Joseph Nelson
 
 ### Course Outline (tentative, subject to change)
 Tuesday | Thursday
@@ -20,7 +19,7 @@ Tuesday | Thursday
 3/1: Natural Language Processing | 3/3: Kaggle Competition 
 3/8: Decision Trees | 3/10: Ensembling (Random Forest)
 3/15: Advanced scikit-learn/Clustering  | 3/17: Selected Topics
-3/22:  | 3/24: Final Project Presentation 
+3/22: Selected Topics | 3/24: Final Project Presentation 
 3/29: Final Project Presentation | 3/31: Selected Topics, Wrap-up
 
 ### Class Assignment Outline (tentative, subject to change)
