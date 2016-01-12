@@ -18,9 +18,8 @@ Tuesday | Thursday
 2/23: First Project Presentation | 2/25: Naive Bayes and Text Data
 3/1: Natural Language Processing | 3/3: Kaggle Competition 
 3/8: Decision Trees | 3/10: Ensembling (Random Forest)
-3/15: Advanced scikit-learn/Clustering  | 3/17: Selected Topics
-3/22: Selected Topics | 3/24: Final Project Presentation 
-3/29: Final Project Presentation | 3/31: Selected Topics, Wrap-up
+3/15: Advanced scikit-learn/Clustering  | 3/17: Final Project Presentation
+3/22: Final Project Presentation  | 3/24: Selected Topics, Wrap-up
 
 ### Class Assignment Outline (tentative, subject to change)
 Date | Assignment
