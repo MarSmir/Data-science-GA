@@ -10,18 +10,18 @@ Course materials for [General Assembly's Data Science course](https://generalass
 ### Course Outline (tentative, subject to change)
 Tuesday | Thursday
 --- | ---
-1/12: Introduction to Data Science | 1/14: Python Fundamentals, Data Reading, and Cleaning
+1/12: Introduction to Data Science | 1/14: Python Data Model; Data Reading and Cleaning
 1/19: Command Line and Version Control | 1/21: Exploratory Data Analysis
-1/26: Data Visualization | 1/28: Machine Learning 
+1/26: Data Visualization | 1/28: Machine Learning Introduction
 2/2: Linear Regression  | 2/4: K-Nearest Neighbors
 2/9: Web Scraping and Data Cleansing | 2/11: Basic Model Evaluation
 2/16: Logistic Regression | 2/18: Advanced Model Evaluation
 2/23: First Project Presentation | 2/25: Naive Bayes and Text Data
 3/1: Natural Language Processing | 3/3: Kaggle Competition 
-3/8: Decision Trees | 3/10: Ensembling
-3/15: Advanced scikit-learn/Clustering  | 3/17: 
-3/22: Final Project Presentation | 3/24: Final Project Presentation 
-3/29: Selected Topics, Wrap-up |
+3/8: Decision Trees | 3/10: Ensembling (Random Forest)
+3/15: Advanced scikit-learn/Clustering  | 3/17: Selected Topics
+3/22:  | 3/24: Final Project Presentation 
+3/29: Final Project Presentation | 3/31: Selected Topics, Wrap-up
 
 ### Class Assignment Outline (tentative, subject to change)
 Date | Assignment
@@ -52,7 +52,7 @@ Date | Assignment
 * Data science tools ([slides](slides/DataScienceTools.pdf))
 * [Doing Data Science at Twitter](http://bit.ly/1Fs08QC)
 * [17 types of data science](http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared)
-* Python Fundamentals
+* The sPython Data Model
 * Wrap up: Slack tour, feedback form
 
 ### Python Resources
@@ -113,6 +113,7 @@ If you don't feel comfortable with any of the content (excluding the "requests" 
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/) is Python's "classic" style guide, and is worth a read if you want to write readable code that is consistent with the rest of the Python community.
 * If you want to understand Python at a deeper level: Ned Batchelder's [Loop Like A Native](http://nedbatchelder.com/text/iter.html), [Python Names and Values](http://nedbatchelder.com/text/names1.html), 
 Raymond Hettinger's [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) and [Python Epiphanies](https://www.youtube.com/watch?v=Pi9NpxAvYSs) are excellent presentations.
+* [Everything is an object in Python](https://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)
 * [Nate Silver on the Art and Science of Prediction](https://www.youtube.com/watch?v=eE4qCJBgfIk&index=22&list=LLGUFXF_Wex-mp-gpXFPYZEQ)
 
 -----
@@ -152,6 +153,7 @@ Add this file to a GitHub repo that you'll use for all of your coursework, and s
 * [Cracking the Code to GitHub's Growth](https://growthhackers.com/growth-studies/github) explains why GitHub is so popular among developers.
 
 **Command Line Resources:**
+* [The Linux command line](http://courseweb.pitt.edu/bbcswebdav/institution/Pitt%20Online/MLIS_Pitt_Online/LIS%202600/Intro%20Module/LIS_2600_%20M1_Shotts%202009.pdf)
 * If you want to go much deeper into the command line, [Data Science at the Command Line](http://amzn.to/1gSjcvV) is a great book. 
 The [companion website](http://datascienceatthecommandline.com/) provides installation instructions for a "data science toolbox" 
 (a virtual machine with many more command line tools), as well as a long reference guide to popular command line tools.
