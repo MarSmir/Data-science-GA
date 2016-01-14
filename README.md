@@ -167,11 +167,11 @@ Copy the link from your new Forked Repo
 ![Step 2](git_step2.png)
 #### Step 3
 Clone your new forked repo to your computer.
-```git clone git@github.com:YOUR_USERNAME/DAT-DC-9.git```
+```git clone git@github.com:YOUR_USERNAME/DAT-DC-11.git```
 #### Step 4
 cd (change directory) into the cloned repo.
 #### Step 5
-```git remote add upstream git@github.com:ga-students/DAT-DC-9.git```
+```git remote add upstream git@github.com:ga-students/DAT-DC-11.git```
 #### Step 6
 Repeat this step often to keep your Repo up to date with the Class Repo:
 
