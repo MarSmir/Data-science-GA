@@ -122,7 +122,7 @@ Raymond Hettinger's [Transforming Code into Beautiful, Idiomatic Python](https:/
 * Intermediate command line
 
 **Homework:**
-* Work through GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows), and then browse through this [command line reference](code/02_command_line.md).
+* Work through GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows), and then browse through this [command line reference](code/03_command_line.md).
 * Watch videos 1 through 8 (21 minutes) of [Introduction to Git and GitHub](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD).
 
 Create a Markdown document that includes your answers to questions 1-3 below and the code you used to arrive at those answers. 
@@ -136,7 +136,7 @@ Add this file to a GitHub repo that you'll use for all of your coursework, and s
     * Which burrito is more popular, steak or chicken?
     * Do chicken burritos more often have black beans or pinto beans?
 2. Count the number of occurrences of the word 'dictionary' (regardless of case) across all files in the DAT9 repo.
-3. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. The [advanced commands](code/02_command_line.md#Advanced-commands) may be helpful to you!
+3. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. The [advanced commands](code/03_command_line.md#Advanced-commands) may be helpful to you!
 
 **Git and Markdown Resources:**
 * [Pro Git](http://git-scm.com/book/en/v2) is an excellent book for learning Git. Read the first two chapters to gain a deeper understanding of version control and basic commands.
