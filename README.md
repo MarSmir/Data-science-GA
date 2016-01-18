@@ -24,9 +24,9 @@ Tuesday | Thursday
 ### Class Assignment Outline (tentative, subject to change)
 Date | Assignment
 --- | ---
-1/21 | HW#1: Chipotle Python
-1/26 | HW#2: Command Line 
-1/28 | HW#3: IMDB with Pandas
+1/21 | HW#1: [Chipotle Python](homework/02_python_homework_chipotle.py)
+1/26 | HW#2: [Command Line](homework/03_command_line_chipotle.md)
+1/28 | HW#3: [IMDB with Pandas](homework/05_pandas_homework_imdb.ipynb)
 2/4  | **Project Brainstorming Deadline**
 2/9  | HW#4  Yelp Votes Linear Regression
 2/11 | **Project Question and Dataset Due** 
@@ -90,7 +90,7 @@ Date | Assignment
 * Wrap up: Course schedule, office hours
 
 **Homework:**
-* Complete the [Python homework assignment](homework/03_python_homework_chipotle.py) with the Chipotle data, add a commented Python script to your GitHub repo, and submit a link using the homework submission form. (**Note:** Pandas, which is covered in class 4, should not be used for this assignment.)
+* Complete the [Python homework assignment](homework/02_python_homework_chipotle.py) with the Chipotle data, add a commented Python script to your GitHub repo, and submit a link using the homework submission form. (**Note:** Pandas, which is covered in class 4, should not be used for this assignment.)
 
 * Review the code from the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python workshops. 
 If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time this weekend practicing Python:
@@ -206,7 +206,7 @@ Repeat this step often to keep your Repo up to date with the Class Repo:
 * Visualization with Pandas and Matplotlib ([notebooks](notebooks/05_pandas_visualization.ipynb))
 
 **Homework:**
-* Complete the [Pandas homework assignment](code/05_pandas_homework_imdb.ipynb) with the [IMDb data](data/imdb_1000.csv). 
+* Complete the [Pandas homework assignment](homework/05_pandas_homework_imdb.ipynb) with the [IMDb data](data/imdb_1000.csv). 
 
 **Pandas Resources:**
 * To learn more Pandas, read this [three-part tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), 
