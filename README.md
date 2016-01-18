@@ -4,7 +4,10 @@
 Welcome to Data Science at General Assembly! This is where we will be hosting all class slides, assignments, resources, and more.
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (1/12/16 - 3/31/16).
 
-**Instructors:** Aleks Ontman & Alex Sherman 
+**Instructors:** [Aleks Ontman](https://www.linkedin.com/in/aleksontman?authType=NAME_SEARCH&authToken=v3gt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A8126156%2CauthType%3ANAME_SEARCH%2Cidx%3A1-5-5%2CtarId%3A1453087892486%2Ctas%3Aale) 
+& [Alex Sherman](https://www.linkedin.com/in/alexjmsherman)
+** TA: ** [Al Johri](https://www.linkedin.com/in/aljohri)
+ 
 
 ### Course Outline (tentative, subject to change)
 Tuesday | Thursday
@@ -230,9 +233,12 @@ or review these two excellent (but extremely long) notebooks on Pandas:
 ---
 ## Meet the Team
 
-### Aleks Ontman (Instructor)
+### [Aleks Ontman](https://www.linkedin.com/in/aleksontman?authType=NAME_SEARCH&authToken=v3gt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A8126156%2CauthType%3ANAME_SEARCH%2Cidx%3A1-5-5%2CtarId%3A1453087892486%2Ctas%3Aale) ( (Instructor)
+Dr. Ontman joined Deloitte in 2012, currently a Sr. Data Scientist in Deloitte's Advanced Analytics Visualization team (VizStudio) 
+specializing in: machine learning, design thinking for prototyping new solutions, ideation workshops, and guided interactions 
+with Big Data. Our projects involved big data solutions for 5+ Fortune 100 companies, 10+ Fortune 500 companies, and several Federal Agencies.
 
-### Alex Sherman (Instructor)
+### [Alex Sherman](https://www.linkedin.com/in/alexjmsherman) (Instructor)
 Alex is a passionate business analytics advocate. He currently works as a Technology Consultant at Deloitte Consulting, 
 in which he leads the design and implementation for informatics and analytics software development projects, 
 repurposing semantic open source software to enhance data access for federal health care clients. 
@@ -240,8 +246,11 @@ In his free time, Alex is an avid jazz percussionist, self-proclaimed as the bes
 **Contact Info:**
 * Email: [alexjmsherman@gmail.com](mailto:alexjmsherman@gmail.com)
 
-###Joseph Nelson (TA)
+### [Al Johri](https://www.linkedin.com/in/aljohri) (TA)
 
+Al is interested in creatively applying software engineering and data science to solve real world problems. 
+He recently graduated with a degree in computer science from the McCormick School of Engineering at Northwestern University and 
+currently works at the Washington Post as a Data Scientist part of the Big Data & Data Warehouse Solutions department.
 
 ### Tim Foley (Course Producer)
 As your Course Producer, it's Tim's job to make sure that you (and your instructors) have everything you need for a successful experience in DAT9. **If you've got a question, and you're not sure who to ask, start with Tim!**
