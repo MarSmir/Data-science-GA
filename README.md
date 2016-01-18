@@ -4,9 +4,9 @@
 Welcome to Data Science at General Assembly! This is where we will be hosting all class slides, assignments, resources, and more.
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (1/12/16 - 3/31/16).
 
-**Instructors:** [Aleks Ontman](https://www.linkedin.com/in/aleksontman?authType=NAME_SEARCH&authToken=v3gt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A8126156%2CauthType%3ANAME_SEARCH%2Cidx%3A1-5-5%2CtarId%3A1453087892486%2Ctas%3Aale) 
+* Instructors: [Aleks Ontman](https://www.linkedin.com/in/aleksontman?authType=NAME_SEARCH&authToken=v3gt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A8126156%2CauthType%3ANAME_SEARCH%2Cidx%3A1-5-5%2CtarId%3A1453087892486%2Ctas%3Aale) 
 & [Alex Sherman](https://www.linkedin.com/in/alexjmsherman)
-\n** TA: ** [Al Johri](https://www.linkedin.com/in/aljohri)
+* TA: [Al Johri](https://www.linkedin.com/in/aljohri)
  
 
 ### Course Outline (tentative, subject to change)
@@ -243,7 +243,7 @@ Alex is a passionate business analytics advocate. He currently works as a Techno
 in which he leads the design and implementation for informatics and analytics software development projects, 
 repurposing semantic open source software to enhance data access for federal health care clients. 
 In his free time, Alex is an avid jazz percussionist, self-proclaimed as the best drum stick spinner in the DC metro area.
-\n**Contact Info:**
+* Contact Info:
 * Email: [alexjmsherman@gmail.com](mailto:alexjmsherman@gmail.com)
 
 ### [Al Johri](https://www.linkedin.com/in/aljohri) (TA)
