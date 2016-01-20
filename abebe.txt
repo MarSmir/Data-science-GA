@@ -1,3 +1,3 @@
 
-hello GA
+hello
 goodbye!
