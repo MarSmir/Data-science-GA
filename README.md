@@ -237,7 +237,8 @@ or review these two excellent (but extremely long) notebooks on Pandas:
 * "Human learning" exercise:
     * [Iris dataset](http://archive.ics.uci.edu/ml/datasets/Iris) hosted by the UCI Machine Learning Repository
     * [Iris photo](http://sebastianraschka.com/Images/2014_python_lda/iris_petal_sepal.png)
-    * [Notebook](notebooks/06_human_learning_iris.ipynb)
+    * [Iris exercise Notebook](notebooks/06_human_learning_iris_exercise.ipynb)
+    * [Iris answers Notebook](notebooks/06_human_learning_iris.ipynb) available after class ends
 * Introduction to machine learning ([slides](slides/06_machine_learning.pdf))
 
 **Homework:**
