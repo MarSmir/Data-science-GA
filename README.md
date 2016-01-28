@@ -53,7 +53,7 @@ Date | Assignment
 * Data science tools ([slides](slides/DataScienceTools.pdf))
 * [Doing Data Science at Twitter](http://bit.ly/1Fs08QC)
 * [17 types of data science](http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared)
-* The sPython Data Model
+* The Python Data Model
 * Wrap up: Slack tour, feedback form
 
 ### Python Resources
@@ -207,6 +207,7 @@ Repeat this step often to keep your Repo up to date with the Class Repo:
 ### Class 5: Visualization
 * Part 2 of Exploratory Data Analysis with Pandas ([code](code/04_pandas.py))
 * Visualization with Pandas and Matplotlib ([notebooks](notebooks/05_pandas_visualization.ipynb))
+* Python homework with the Chipotle data ([Solution](homework solutions/03_python_homework_chipotle_explained.ipynb))
 
 **Homework:**
 * Complete the [Pandas homework assignment](homework/05_pandas_homework_imdb.ipynb) with the [IMDb data](data/imdb_1000.csv). 
@@ -229,8 +230,36 @@ or review these two excellent (but extremely long) notebooks on Pandas:
 * To explore different types of visualizations and when to use them, [Choosing a Good Chart](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) and [The Graphic Continuum](http://www.coolinfographics.com/storage/post-images/The-Graphic-Continuum-POSTER.jpg) are nice one-page references, and the interactive [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) has handy filtering capabilities.
 * This [PowerPoint presentation](http://www2.research.att.com/~volinsky/DataMining/Columbia2011/Slides/Topic2-EDAViz.ppt) from Columbia's Data Mining class contains lots of good advice for properly using different types of visualizations.
 
+----
+
+### Class 6: Machine Learning
+* Part 2 of Visualization with Pandas and Matplotlib ([notebook](notebooks/05_pandas_visualization.ipynb))
+* "Human learning" exercise:
+    * [Iris dataset](http://archive.ics.uci.edu/ml/datasets/Iris) hosted by the UCI Machine Learning Repository
+    * [Iris photo](http://sebastianraschka.com/Images/2014_python_lda/iris_petal_sepal.png)
+    * [Notebook](notebooks/06_human_learning_iris.ipynb)
+* Introduction to machine learning ([slides](slides/06_machine_learning.pdf))
+
+**Homework:**
+* **Optional:** For an introduction to linear regression, watch [The Easiest Introduction to Regression Analysis](https://www.youtube.com/watch?v=k_OB1tWX9PM) (14 minutes).
+* If you're not using Anaconda, install [requests](http://www.python-requests.org/en/latest/user/install/) and [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup) using `pip`. (Both of these packages are included with Anaconda.)
+
+**Machine Learning Resources:**
+* For a very quick summary of the key points about machine learning, watch [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk) (10 minutes) or read the [associated notebook](https://github.com/justmarkham/scikit-learn-videos/blob/master/01_machine_learning_intro.ipynb).
+* For a more in-depth introduction to machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
+* The [Learning Paradigms](http://work.caltech.edu/library/014.html) video (13 minutes) from [Caltech's Learning From Data course](http://work.caltech.edu/telecourse.html) provides a nice comparison of supervised versus unsupervised learning, as well as an introduction to "reinforcement learning".
+* [Real-World Active Learning](https://beta.oreilly.com/ideas/real-world-active-learning) is a readable and thorough introduction to "active learning", a variation of machine learning in which humans label only the most "important" observations.
+* For a preview of some of the machine learning content we will cover during the course, read Sebastian Raschka's [overview of the supervised learning process](https://github.com/rasbt/pattern_classification/blob/master/machine_learning/supervised_intro/introduction_to_supervised_machine_learning.md).
+* [Data Science, Machine Learning, and Statistics: What is in a Name?](http://www.win-vector.com/blog/2013/04/data-science-machine-learning-and-statistics-what-is-in-a-name/) discusses the differences between these (and other) terms.
+* [The Emoji Translation Project](https://www.kickstarter.com/projects/fred/the-emoji-translation-project) is a really fun application of machine learning.
+* Look up the [characteristics of your zip code](http://www.esri.com/landing-pages/tapestry/), and then read about the [67 distinct segments](http://doc.arcgis.com/en/esri-demographics/data/tapestry-segmentation.htm) in detail.
+
+**IPython Notebook Resources:**
+* If you would like to learn the IPython Notebook, the official [Notebook tutorials](https://github.com/jupyter/notebook/blob/master/docs/source/examples/Notebook/Examples%20and%20Tutorials%20Index.ipynb) are useful.
+* This [Reddit discussion](https://www.reddit.com/r/Python/comments/3be5z2/do_you_prefer_ipython_notebook_over_ipython/) compares the relative strengths of the IPython Notebook and Spyder.
 
 ---
+
 ## Meet the Team
 
 ### [Aleks Ontman](https://www.linkedin.com/in/aleksontman?authType=NAME_SEARCH&authToken=v3gt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A8126156%2CauthType%3ANAME_SEARCH%2Cidx%3A1-5-5%2CtarId%3A1453087892486%2Ctas%3Aale) (Instructor)
