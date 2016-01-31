@@ -174,7 +174,7 @@ Clone your new forked repo to your computer.
 #### Step 4
 cd (change directory) into the cloned repo.
 #### Step 5
-```git remote add upstream git@github.com:ga-students/DAT-DC-11.git```
+```git remote add upstream https://github.com/ga-students/DAT-DC-11```
 #### Step 6
 Repeat this step often to keep your Repo up to date with the Class Repo:
 
