@@ -45,5 +45,6 @@
      * [UFO reports](https://github.com/planetsig/ufo-reports): geolocated and time-standardized UFO reports for close to a century
      * [Reddit Top 2.5 Million](https://github.com/umbrae/reddit-top-2.5-million): all-time top 1,000 posts from each of the top 2,500 subreddits
 * Other resources:
-     * [Datasets subreddit](http://www.reddit.com/r/datasets/): ask for help finding a specific data set, or post your own
-     * [Center for Data Innovation](http://www.datainnovation.org/category/publications/data-set-blog/): blog posts about interesting, recently-released data sets.
+  * [Datasets subreddit](http://www.reddit.com/r/datasets/): ask for help finding a specific data set, or post your own
+  * [Center for Data Innovation](http://www.datainnovation.org/category/publications/data-set-blog/): blog posts about interesting, recently-released data sets.
+  * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets): a github repo with links to lots of interesting datasets.
