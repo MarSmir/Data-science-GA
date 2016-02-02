@@ -265,7 +265,7 @@ or review these two excellent (but extremely long) notebooks on Pandas:
 * Finish the Iris exercise [Iris answers Notebook](notebooks/06_human_learning_iris.ipynb)
 * discuss dataframe iteration approaches [iteration time test](notebooks/07_df_iter_time_test.ipynb)
 * K-nearest neighbors and scikit-learn [notebook](notebooks/07_knn_sklearn.ipynb)
-* Exercise with NBA player data [notebook](notebooks/07_nba_knn.ipynb), [data](https://github.com/justmarkham/DAT4-students/blob/master/kerry/Final/NBA_players_2015.csv), [data dictionary](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/nba_paper.pdf))
+* Exercise with NBA player data [notebook](notebooks/07_nba_knn.ipynb), [data](https://github.com/justmarkham/DAT4-students/blob/master/kerry/Final/NBA_players_2015.csv), [data dictionary](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/nba_paper.pdf)
 
 **Homework:**
 * Read [introduction to reproducibility](http://www.dataschool.io/reproducibility-is-not-just-for-researchers/), read Jeff Leek's [guide to creating a reproducible analysis](https://github.com/jtleek/datasharing), and watch this related [Colbert Report video](http://thecolbertreport.cc.com/videos/dcyvro/austerity-s-spreadsheet-error) (8 minutes).
